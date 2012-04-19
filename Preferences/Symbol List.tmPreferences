@@ -5,7 +5,7 @@
 	<key>name</key>
 	<string>Symbol List</string>
 	<key>scope</key>
-	<string>entity.name.label</string>
+	<string>entity.name.tag</string>
 	<key>settings</key>
 	<dict>
 		<key>showInSymbolList</key>
