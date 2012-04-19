@@ -232,8 +232,8 @@
 		</dict>
 	</array>
 	<key>scopeName</key>
-	<string>source.asm</string>
+	<string>source.dcpu-16</string>
 	<key>uuid</key>
-	<string>ED5C0606-6C1C-4033-8640-2A6FB679CB28</string>
+	<string>D8985F81-2345-4381-84C0-195B68783AF2</string>
 </dict>
 </plist>
