@@ -29,20 +29,10 @@
 			<string>keyword.mnemonic</string>
 		</dict>
 		<dict>
-			<key>captures</key>
-			<dict>
-				<key>1</key>
-				<dict>
-					<key>match</key>
-					<string>\w*</string>
-					<key>name</key>
-					<string>entity.name.tag</string>
-				</dict>
-			</dict>
 			<key>match</key>
-			<string>^:(\w*)</string>
+			<string>^\s*(:\w+)</string>
 			<key>name</key>
-			<string>meta.dcpu-16.label</string>
+			<string>entity.name.tag</string>
 		</dict>
 		<dict>
 			<key>begin</key>
