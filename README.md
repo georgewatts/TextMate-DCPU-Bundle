@@ -6,5 +6,5 @@ To install with Git:
 
     mkdir -p ~/Library/Application\ Support/TextMate/Bundles
     cd ~/Library/Application\ Support/TextMate/Bundles
-    git clone git://github.com/twss/TextMate-DCPU-Bundle.git "DCPU-16.tmbundle"
+    git clone git://github.com/PH03N1X-108/TextMate-DCPU-Bundle.git "DCPU-16.tmbundle"
     osascript -e 'tell app "TextMate" to reload bundles'
